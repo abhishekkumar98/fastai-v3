@@ -1,0 +1,4 @@
+export_file_url="https://drive.google.com/drive/u/0/folders/1Hl5aYiBSkPZWteT7lzpSVb1AyeCgC_r_"
+export_file_name='stage-1.pth'
+classes = ['teddys','grizzly','black']
+path=Path[__file__].parent
